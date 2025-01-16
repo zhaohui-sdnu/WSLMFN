@@ -1,5 +1,5 @@
-# MFNWSL: Multi-Feature Fusion Network with Weakly Supervised Localization
-The official implementation of the paper "Multi-Feature Fusion Network with Weakly Supervised Localization for Gastric Intestinal Metaplasia Grading".  
+# WSLMFN: Weakly Supervised Localization based Multi-feature Fusion Network
+The official implementation of the paper "Weakly Supervised Localization based Multi-feature Fusion Network for Grading of Gastric Intestinal Metaplasia".  
 Authors: Zhaohui Wang, Xiangwei Zheng, Rui Li, Mingzhe Zhang
 ## Introduction
 Framework diagram
@@ -30,7 +30,7 @@ Contact email: xwzhengcn@163.com
 ```python
 python pretrain.py
 ```
-## Training and testing MFNWSL
+## Training and testing WSLMFN
 - Create environment & install required packages
 - Prepare dataset folder (a parent directory containing three sub-folders '0', '1' and '2' like below):
 ```python
