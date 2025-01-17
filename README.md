@@ -1,12 +1,10 @@
 # WSLMFN: Weakly Supervised Localization based Multi-feature Fusion Network
 The official implementation of the paper "Weakly Supervised Localization based Multi-feature Fusion Network for Grading of Gastric Intestinal Metaplasia".  
-Authors: Zhaohui Wang, Xiangwei Zheng, Rui Li, Mingzhe Zhang
 ## Introduction
 Framework diagram
 ![Framework diagram](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/WSLMFN.jpg)
 ## Dataset acquisition
 Data sharing is not applicable to this article due to medical data privacy. If you need the dataset, please contact the corresponding author.  
-Contact email: xwzhengcn@163.com
 ## Pre-training lesion activation map generation network
 - Create environment & install required packages
 - Prepare dataset folder (a parent directory containing three sub-folders '0', '1' and '2' like below):
