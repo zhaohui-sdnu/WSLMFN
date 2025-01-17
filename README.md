@@ -3,7 +3,7 @@ The official implementation of the paper "Weakly Supervised Localization based M
 Authors: Zhaohui Wang, Xiangwei Zheng, Rui Li, Mingzhe Zhang
 ## Introduction
 Framework diagram
-![Framework diagram](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/MFNWSL.png)
+![Framework diagram](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/WSLMFN.jpg)
 ## Dataset acquisition
 Data sharing is not applicable to this article due to medical data privacy. If you need the dataset, please contact the corresponding author.  
 Contact email: xwzhengcn@163.com
@@ -86,4 +86,4 @@ Quantitative results
 ![Confusion Matrix](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/Confusion_Matrix.png)
 ![ROC](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/ROC.png)  
 Visualization results  
-![Visualization results](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/Visualize.png)
+![Visualization results](https://github.com/zhaohui-sdnu/MFNWSL/blob/main/docs/Visualize.jpg)
